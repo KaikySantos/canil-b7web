@@ -2,8 +2,6 @@
 Application of an animal kennel. Created during the b7web fullstack course, in module node.js + typescript.
 
 <hr/>
-# 3D Solar System
-Interactive 3d solar system in your browser.
 
 # :eyes: View project
 
