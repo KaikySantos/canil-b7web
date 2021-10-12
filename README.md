@@ -1,7 +1,6 @@
 # Canil 🐕
 Application of an animal kennel. Created during the b7web fullstack course, in module node.js + typescript.
 
-<hr/>
 
 # :eyes: View project
 
